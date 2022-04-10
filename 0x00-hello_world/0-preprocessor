@@ -1,6 +1,2 @@
 #!/bin/bash
-gcc -E $CFILE $ git clone https://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@github.com/Abenezer64/gcc -E $CFILE -o c
-[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
-[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgcc $CFILE -o -c[D[D[D[D[D[D[D[D[D[D[D[D-E $CFILE -o c 
-:q
-[A[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C 
+gcc -E $CFILE -o c 

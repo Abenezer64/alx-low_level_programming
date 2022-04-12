@@ -1,23 +1,18 @@
 #include <stdio.h>
+
 /**
  * main - Entry point
  *
  * Return: 0
  */
 int main(void)
-{
-int c = 0;
+char x;
 
-while (c < 10)
-{
-putchar(48 + c);
-if (c != 9)
-{
-putchar(',');
-putchar(' ');
-}
-c++;
-}
+for (x = 'e'; x <= '9'; ++x)
+putchar(x);
+for (x = 'a'; x <= 'f'; ++x)
+putchar(x);
+
 putchar('\n');
 
 return (0);

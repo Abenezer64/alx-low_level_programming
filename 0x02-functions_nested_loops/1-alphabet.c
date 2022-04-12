@@ -1,9 +1,7 @@
 #include "main.h"
 
 /**
- * main - Entry point
- *
- * Return: 0
+ * print_alphabet - prints a to z, in lowre case
  */
 void print_alphabet(void)
 {

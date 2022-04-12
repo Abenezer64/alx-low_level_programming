@@ -6,6 +6,7 @@
  * Return: 0
  */
 int main(void)
+{
 char x;
 
 for (x = 'e'; x <= '9'; ++x)

@@ -11,9 +11,7 @@ char l;
 int t;
 
 for (t = 0; t < 10; t++)
-{
 for (l = 'a'; l <= 'z'; l++)
 _putchar(l);
-}
 _putchar('\n');
 }

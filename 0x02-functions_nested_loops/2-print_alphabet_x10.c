@@ -1,10 +1,7 @@
 #include "main.h"
 
 /**
- * main - Entry point
- *
- * print_alphabet_x10 - prints a to z 10 times
- * Return: 0
+ * print_alphabet_x10 - prints a to z 10 times, inlower case
  */
 void print_alphabet_x10(void)
 {

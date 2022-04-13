@@ -16,7 +16,7 @@ for (m = 1; m <= 9; m++)
 _putchar(',');
 _putchar(' ');
 
-p = n + m;
+p = n * m;
 
 if (p <= 9)
 _putchar(' ');

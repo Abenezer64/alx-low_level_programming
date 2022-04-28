@@ -1,4 +1,5 @@
-#ifndef <0-puts_recursion.c>
-#include <stdio>
+#ifndef MAIN_H
+#define MAIN_H
+
 void _puts_recursion(char *s);
 #endif /*_MAIN_H_*/
